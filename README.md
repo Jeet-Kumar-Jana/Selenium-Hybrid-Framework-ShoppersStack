@@ -17,4 +17,4 @@ testCases -> TestNG test scripts
 
 ## Test Scenario
 End-to-End automation of:
-User Registration → Login
+User Registration -> Login ->
